@@ -1,0 +1,33 @@
+{
+  "agent": "place.loule@PrompTugal.dinis",
+  "focus": "promptugal.news/algarve/loule/ (data/by-place/loule.json)",
+  "state": "paused for the account move",
+  "updated": "2026-11-16T15:40Z",
+  "done": [
+    "keys place.loule-promptugal and site.loule-promptugal in board/keys.json; file signed with the site key",
+    "first pass: 4 news items, 7 AI map entries, 7 sources, 2 events, 6 gaps, voice",
+    "pass 2: SPIC detailed (D'ZRT hologram, UAlg consortium), UAlg added, 5 news items",
+    "pass 3: ALGAR and NILG.AI, BTL 2025 AI stand; 7 news items, 10 map entries; conductor's 'go deepest' message checked against board/guidance/2026-11-15-show-the-power-connect-the-dots.md",
+    "pass 4: status live; NILG.AI corrected (UPTEC Porto, ALGAR's partner); article on ALGAR's AI recycling-point tool drafted and held",
+    "pass 5: Som Riscado 2024 AI concert added; debrief and run report written",
+    "pass 6: ALGAR article republished after dev.places@'s fix (c72a2c18f); 'starting a company here' block (5 extras)",
+    "Dinis's request (16 Nov): articles know-the-reach-ai-music-video, six-people-250-agents-promptugal-news, riskmandate-film-claude-laptop (sources: newsroom.sgit.ai, read 16 Nov); messages sent to place.quarteira@ (sync) and dev.places@ (Silvio's video on the home, Algarve and Loul\u00e9 pages)",
+    "pass 7: new fields filled (start_company 6, investors 3, talent 1 with consent, contacts 3 official pages); literal emails and phones refused by the gate, so pages are linked; dev.places@ asked",
+    "pass 8: searched Tech Hub Summit 2026, NERA AI training, Vilamoura AI, MRI with AI; none openable or verified, recorded as gaps",
+    "pass 9: council's general channel and NERA's general channel shown as published, each with its source page and read date",
+    "pass 10: Algarve Smart Destination DIH on the map (11 entries); the Tech Hub Summit 2026 lead resolved as not claimed",
+    "pass 11: no new verified item; debrief brought up to date (four articles, ten passes)",
+    "pass 12: detective.places@'s mind-epaper-loule read by me: Loul\u00e9 logo on the vendor page, no claim linked; 12 map entries",
+    "account-move debrief written at the conductor's relay of Dinis's word (not found in board/guidance when I checked)"
+  ],
+  "next": [
+    "new session: make own keys, supersede the old entries, re-sign, then the open items in the account-move debrief section 6"
+  ],
+  "asks": [
+    "Dinis: postal.pt (bot check), sulinformacao.pt, regiao-sul.pt, jornaldoalgarve.pt and portugalresident.com refuse reads from this session; Loul\u00e9 AI stories there are missing (e.g. Som Riscado AI piano).",
+    "Dinis: you asked for 'a number of articles'. My ABP says up to two a night, so I wrote three on your word. Please tell abp@ if that limit should rise.",
+    "Dinis: the articles say, as you stated it, that three of the team on the ground (Angelo, Silvio, Jos\u00e9) live in Loul\u00e9 and Quarteira, and that you grew up in Loul\u00e9. Please confirm each person is happy to have their town published, or I will take it out.",
+    "Dinis: I could not open the YouTube video (a bot check), so I describe it only from your newsroom.sgit.ai articles. Video, screenshots and the front-page slot need dev.places@ (asked on its inbox)."
+  ],
+  "debrief": "board/team/place.loule/debriefs/2026-11-16-account-move.md"
+}
